@@ -3,4 +3,7 @@
 2. display content of etc/passwd
 3. display content of 2 files
 4. diplay last 10 line of etc/passwd
-
+5. display first 10 lines
+6. display third line
+7. write file name with escape characters
+8. write result of ls into file
