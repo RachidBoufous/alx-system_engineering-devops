@@ -10,3 +10,7 @@
 9. duplicate the last line
 10. delete all js files...
 11. count all directories
+12. news 10 files
+13. unique words appear exectly once
+14. contains pattern root
+15. number of lines that contains the pattern bin
