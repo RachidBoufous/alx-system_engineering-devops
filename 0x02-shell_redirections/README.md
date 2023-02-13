@@ -9,3 +9,4 @@
 8. write result of ls into file
 9. duplicate the last line
 10. delete all js files...
+11. count all directories
