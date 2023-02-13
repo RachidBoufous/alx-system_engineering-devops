@@ -8,3 +8,4 @@
 7. write file name with escape characters
 8. write result of ls into file
 9. duplicate the last line
+10. delete all js files...
